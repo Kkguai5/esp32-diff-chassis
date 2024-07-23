@@ -49,7 +49,7 @@
 //! 底盘机械属性
 
 #define WIDTH 0.2       // 轮距
-#define RADIUS 0.05     // 轮子直径
+#define RADIUS 0.05     // 轮子半径
 
 
 
